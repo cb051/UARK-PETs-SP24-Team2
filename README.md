@@ -11,6 +11,6 @@ We consider three poisoning approaches on two different models, Logistic Regress
 We use the last method to implement a Backdoor Attack. 
 
 ### About Files
-- ``backdoor_logistic_regression.ipynb``` implements a backdoor attack via poisoning in a logistic regression model.
+- ```backdoor_logistic_regression.ipynb``` implements a backdoor attack via poisoning in a logistic regression model.
 - ```DistilBERT.ipynb``` implements the label manipulation and token replacement poisoning attacks in a DistilBERT model.
 - ```logistic_regression.ipynb``` implements the label manipulation and token replacement poisoning attacks in a logistic regression model.

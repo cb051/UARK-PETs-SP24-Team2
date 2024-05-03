@@ -14,3 +14,4 @@ We use the last method to implement a Backdoor Attack.
 - ```backdoor_logistic_regression.ipynb``` implements a backdoor attack via poisoning in a logistic regression model.
 - ```DistilBERT.ipynb``` implements the label manipulation and token replacement poisoning attacks in a DistilBERT model.
 - ```logistic_regression.ipynb``` implements the label manipulation and token replacement poisoning attacks in a logistic regression model.
+- ```team2_final_presentation.pptx``` contain slides from our project presentation.
